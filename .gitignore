@@ -1,3 +1,5 @@
-.idea/
+HELP.md
 target/
-bin/
+### IntelliJ IDEA ###
+.idea/
+*.iml
